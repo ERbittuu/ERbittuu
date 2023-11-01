@@ -1,6 +1,6 @@
 ### Hi, I’m Utsav! 👋
 
-I’m a Senior Software Engineer living in UAE.
+I’m a Senior Software Engineer living in UAE 🇦🇪
 
 Here are some ideas to get you started:
 
