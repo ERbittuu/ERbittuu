@@ -14,20 +14,19 @@ I build secure, scalable Apple platform applications with strong architecture, p
 
 ## 🚀 What I Do
 
-- 📱 Ship polished apps for **iOS, iPadOS & macOS**
-- 🏗 Design modular, scalable architectures
-- 🔐 Engineer secure, compliance-ready fintech systems
-- ⚡ Simplify complexity with Swift Concurrency
-- 🧪 Optimize performance, memory & reliability
-
-## 🛠 Core Stack
-
-**Swift · SwiftUI · UIKit · Combine · async/await**  
-**MVVM · Clean Architecture · Modularization**  
-**Core Data · Keychain · Secure Networking · CI/CD**
+| Area | Focus | Impact |
+|------|--------|--------|
+| 📱 Platforms | iOS · iPadOS · macOS | Deliver high-performance, production-grade applications |
+| 🏗 Architecture | MVVM · Clean · Modular | Systems designed for scale and long-term evolution |
+| 🔐 Security | Fintech · Enterprise | Compliance-ready, secure-by-design solutions |
+| ⚡ Concurrency | async/await · Actors | Reduced complexity, improved throughput |
+| 🧠 Optimization | Performance · Memory | Reliable, efficient runtime behavior |
 
 ## 💬 Let’s Talk
 
-Architecture · Code Reviews · Performance · Secure Mobile Systems  
+- **System Architecture** — scalable, production-grade design  
+- **Code Quality** — reviews, refactoring, clean abstractions  
+- **Performance Engineering** — memory, concurrency, runtime tuning  
+- **Secure Mobile Systems** — secure-by-design, fintech reliability
 
 📫 **utsavhacker@gmail.com**
