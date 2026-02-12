@@ -1,10 +1,32 @@
-### Hi, I’m Utsav! 👋
+# 👋 Hi, I’m Utsav
 
-I’m a Senior Software Engineer living in UAE 🇦🇪
+**Senior iOS Engineer · 12+ Years · Fintech & Enterprise · UAE 🇦🇪**
 
-Here are some ideas to get you started:
+I build secure, scalable Apple platform applications with strong architecture, performance, and long-term maintainability in mind.
 
-- 🔭 I’m currently working on iOS/iPad, macOS developer.
-- 🌱 I’m currently learning SwiftUI and Combine.
-- 💬 Ask me about internet, coding, application architecture, code review and developments.
-- 📫 Reach me at utsavhacker@gmail.com or 🇮🇳 +918785101444 or 🇦🇪 ‭+971506872131‬
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" />
+  <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS%20%7C%20macOS-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Swift-Expert-orange?style=flat-square&logo=swift" />
+  <img src="https://img.shields.io/badge/Architecture-Clean%20%7C%20MVVM-blue?style=flat-square" />
+</p>
+
+## 🚀 What I Do
+
+- 📱 Ship polished apps for **iOS, iPadOS & macOS**
+- 🏗 Design modular, scalable architectures
+- 🔐 Engineer secure, compliance-ready fintech systems
+- ⚡ Simplify complexity with Swift Concurrency
+- 🧪 Optimize performance, memory & reliability
+
+## 🛠 Core Stack
+
+**Swift · SwiftUI · UIKit · Combine · async/await**  
+**MVVM · Clean Architecture · Modularization**  
+**Core Data · Keychain · Secure Networking · CI/CD**
+
+## 💬 Let’s Talk
+
+Architecture · Code Reviews · Performance · Secure Mobile Systems  
+
+📫 **utsavhacker@gmail.com**
